@@ -3,7 +3,7 @@
 <p align="center">
   <img width="1502" alt="Screenshot 2023-12-25 at 19 22 55" src="https://github.com/Ariaaghakhani/Minimal-Admin-Panel/assets/48532756/ff284134-bce8-45f0-b0a3-4979ffbab1d4">
   <img width="1502" alt="Screenshot 2023-12-25 at 19 22 55" src="https://dev-aria.com/img/gif.gif">
-  <img  alt="Screenshot 2023-12-25 at 19 22 55" src="https://dev-aria.com/img/gif-mob.gif">
+  <img width='450' alt="Screenshot 2023-12-25 at 19 22 55" src="https://dev-aria.com/img/gif-mob.gif">
 
 </p>
 
