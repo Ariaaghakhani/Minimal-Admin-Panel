@@ -9,7 +9,7 @@
 
 - 🔗 [Demo Project](https://minimal-admin-panel.vercel.app/)
 
-- 🗂️ Check the Source directory for Source codes and Components 
+- 🗂️ Check the "Source" directory for Source codes and Components 
 
 - 👨🏻‍💻 Developed by Aria AG
   
